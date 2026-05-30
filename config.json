@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productealidate",
+        "uuid": 3375792,
+        "checksum": "v84yf"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
